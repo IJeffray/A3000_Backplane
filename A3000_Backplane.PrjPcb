@@ -43,6 +43,7 @@ CrossRefPorts=3
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
 CrossRefFollowFromMainSettings=1
+CurrentVariant=STD
 
 [Preferences]
 PrefsVaultGUID=
@@ -104,7 +105,9 @@ UniqueID=817307DA-F743-4D21-9EC7-2D7F1C9F3742
 Description=STD
 AllowFabrication=0
 ParameterCount=0
-VariationCount=0
+VariationCount=2
+Variation1=Designator=HDR1|UniqueId=\VELNHAER|Kind=1|AlternatePart= 
+Variation2=Designator=HDR2|UniqueId=\CHWKDUDX|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [Parameter1]
