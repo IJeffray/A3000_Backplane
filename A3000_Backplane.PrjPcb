@@ -115,16 +115,20 @@ DocumentPath=Project Outputs for A3000_Backplane\Design Rule Check - A3000_Backp
 DItemRevisionGUID=
 
 [Parameter1]
-Name=Project_Title
-Value=A3000 Backplane
+Name=
+Value=
 
 [Parameter2]
-Name=Sch_ReleaseDate
-Value=June 2003
+Name=Sch_RevNo
+Value=2
 
 [Parameter3]
-Name=Sch_RevNo
-Value=1
+Name=Sch_ReleaseDate
+Value=July 2003
+
+[Parameter4]
+Name=Project_Title
+Value=A3000 Backplane
 
 [Configuration1]
 Name=Sources
